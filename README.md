@@ -71,20 +71,7 @@ Once raylib is installed, choose either option below:
 
 ---
 
-#### Option A — Quick Start with the `.zip` (Recommended)
-
-A complete, ready-to-open Visual Studio project is included in the `pong-game` folder as a `.zip` file.
-
-1. **Extract** the `.zip` file
-2. Open the extracted folder and double-click the **`.sln`** file
-3. Set the build target to **x64 Release** (or Debug)
-4. Press **`Ctrl+F5`** to build and run
-
----
-
-#### Option B — Build from Source (`pong-game.cpp`)
-
-If you'd prefer to set up the project yourself using just the `.cpp` file:
+#### Build from Source (`pong-game.cpp`)
 
 1. Open **Visual Studio** → Create a new **Empty C++ Project**
 2. Add `pong-game.cpp` to the project source files
