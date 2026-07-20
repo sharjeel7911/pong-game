@@ -67,8 +67,7 @@ Open **PowerShell** and run the following commands:
 
 ### ▶️ Step 2 — Run the Project
 
-Once raylib is installed, choose either option below:
-
+Once raylib is installed, then:
 ---
 
 #### Build from Source (`pong-game.cpp`)
